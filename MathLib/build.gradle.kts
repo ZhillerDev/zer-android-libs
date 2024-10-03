@@ -43,7 +43,7 @@ dependencies {
 
 val GROUP_ID = "com.github.zhiller"
 val ARTIFACT_ID = "test-lib"
-val VERSION = "v1.0.0"
+val VERSION = "1.0.0"
 
 //val VERSION = latestGitTag().ifEmpty { "1.0.0" }
 //fun latestGitTag(): String {
